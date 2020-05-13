@@ -89,9 +89,6 @@
 		2C553C95245D777D0084F15F = {
 			isa = PBXGroup;
 			children = (
-				2C553CDC245DABAE0084F15F /* icon.png */,
-				2C553CD8245D95250084F15F /* RankingViewController.swift */,
-				2C553CD6245D93060084F15F /* GameViewController.swift */,
 				2C553CA0245D777D0084F15F /* BarabaraGame */,
 				2C553CB7245D777E0084F15F /* BarabaraGameTests */,
 				2C553CC2245D777F0084F15F /* BarabaraGameUITests */,
@@ -113,6 +110,9 @@
 			isa = PBXGroup;
 			children = (
 				2C553CD1245D7DA70084F15F /* Barabara素材 */,
+				2C553CDC245DABAE0084F15F /* icon.png */,
+				2C553CD6245D93060084F15F /* GameViewController.swift */,
+				2C553CD8245D95250084F15F /* RankingViewController.swift */,
 				2C553CA1245D777D0084F15F /* AppDelegate.swift */,
 				2C553CA3245D777D0084F15F /* SceneDelegate.swift */,
 				2C553CA5245D777D0084F15F /* ViewController.swift */,
